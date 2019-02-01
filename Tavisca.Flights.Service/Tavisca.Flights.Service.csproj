@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tavisca.Flight.Core\Tavisca.Flight.Core.csproj" />
+    <ProjectReference Include="..\Tavisca.Flights.Contract\Tavisca.Flights.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

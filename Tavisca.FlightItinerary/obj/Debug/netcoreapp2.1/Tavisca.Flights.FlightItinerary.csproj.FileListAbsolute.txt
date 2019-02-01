@@ -1,0 +1,12 @@
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\bin\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.deps.json
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\bin\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.dll
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\bin\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.pdb
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\bin\Debug\netcoreapp2.1\Tavisca.Flights.Contract.dll
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\bin\Debug\netcoreapp2.1\Tavisca.Flights.Contract.pdb
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\obj\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.csprojAssemblyReference.cache
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\obj\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.csproj.CoreCompileInputs.cache
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\obj\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.AssemblyInfoInputs.cache
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\obj\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.AssemblyInfo.cs
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\obj\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.csproj.CopyComplete
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\obj\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.dll
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.FlightItinerary\obj\Debug\netcoreapp2.1\Tavisca.Flights.FlightItinerary.pdb

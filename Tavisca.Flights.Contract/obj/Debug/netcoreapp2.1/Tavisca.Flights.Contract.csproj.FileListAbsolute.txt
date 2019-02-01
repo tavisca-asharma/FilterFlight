@@ -1,0 +1,9 @@
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.Flights.Contract\bin\Debug\netcoreapp2.1\Tavisca.Flights.Contract.deps.json
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.Flights.Contract\bin\Debug\netcoreapp2.1\Tavisca.Flights.Contract.dll
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.Flights.Contract\bin\Debug\netcoreapp2.1\Tavisca.Flights.Contract.pdb
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.Flights.Contract\obj\Debug\netcoreapp2.1\Tavisca.Flights.Contract.csprojAssemblyReference.cache
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.Flights.Contract\obj\Debug\netcoreapp2.1\Tavisca.Flights.Contract.csproj.CoreCompileInputs.cache
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.Flights.Contract\obj\Debug\netcoreapp2.1\Tavisca.Flights.Contract.AssemblyInfoInputs.cache
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.Flights.Contract\obj\Debug\netcoreapp2.1\Tavisca.Flights.Contract.AssemblyInfo.cs
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.Flights.Contract\obj\Debug\netcoreapp2.1\Tavisca.Flights.Contract.dll
+C:\Users\asharma\source\repos\Tavisca.Flights\Tavisca.Flights.Contract\obj\Debug\netcoreapp2.1\Tavisca.Flights.Contract.pdb

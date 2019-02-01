@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Host", "1. Host", "{C86BA146-1209-4FE4-8360-00E2F7775A68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Core", "2. Core", "{F2BC34FE-A5F1-43EB-BF72-22FE03812EAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Service", "3. Service", "{6B3E53E5-B58D-49F8-B8F9-8A2F7A781C98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Adapter", "4. Adapter", "{C6F234D5-EBAD-4152-835A-938F718441E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Flights.FlightItinerary", "Tavisca.FlightItinerary\Tavisca.Flights.FlightItinerary.csproj", "{381CC80D-55B2-412A-A665-7902A97D641E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Contract", "5. Contract", "{30699129-0AC5-42E5-97A7-886C0FDEF32A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Flights.Contract", "Tavisca.Flights.Contract\Tavisca.Flights.Contract.csproj", "{331247F4-CD7A-4389-8198-8C6951DE3354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Flight.Core", "Tavisca.Flight.Core\Tavisca.Flight.Core.csproj", "{D86E4A43-C638-47B8-B3EE-97CECF46B147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Flights.Web", "Tavisca.Flights.Web\Tavisca.Flights.Web.csproj", "{15E5977D-A418-4ED0-8744-04020CB20169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Flights.Service", "Tavisca.Flights.Service\Tavisca.Flights.Service.csproj", "{4137E911-168C-45F2-BCA5-D133621C1FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381CC80D-55B2-412A-A665-7902A97D641E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381CC80D-55B2-412A-A665-7902A97D641E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381CC80D-55B2-412A-A665-7902A97D641E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381CC80D-55B2-412A-A665-7902A97D641E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331247F4-CD7A-4389-8198-8C6951DE3354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331247F4-CD7A-4389-8198-8C6951DE3354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331247F4-CD7A-4389-8198-8C6951DE3354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331247F4-CD7A-4389-8198-8C6951DE3354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86E4A43-C638-47B8-B3EE-97CECF46B147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86E4A43-C638-47B8-B3EE-97CECF46B147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86E4A43-C638-47B8-B3EE-97CECF46B147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86E4A43-C638-47B8-B3EE-97CECF46B147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E5977D-A418-4ED0-8744-04020CB20169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E5977D-A418-4ED0-8744-04020CB20169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E5977D-A418-4ED0-8744-04020CB20169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E5977D-A418-4ED0-8744-04020CB20169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4137E911-168C-45F2-BCA5-D133621C1FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4137E911-168C-45F2-BCA5-D133621C1FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4137E911-168C-45F2-BCA5-D133621C1FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4137E911-168C-45F2-BCA5-D133621C1FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{381CC80D-55B2-412A-A665-7902A97D641E} = {C6F234D5-EBAD-4152-835A-938F718441E8}
+		{331247F4-CD7A-4389-8198-8C6951DE3354} = {30699129-0AC5-42E5-97A7-886C0FDEF32A}
+		{D86E4A43-C638-47B8-B3EE-97CECF46B147} = {F2BC34FE-A5F1-43EB-BF72-22FE03812EAE}
+		{15E5977D-A418-4ED0-8744-04020CB20169} = {C86BA146-1209-4FE4-8360-00E2F7775A68}
+		{4137E911-168C-45F2-BCA5-D133621C1FB7} = {6B3E53E5-B58D-49F8-B8F9-8A2F7A781C98}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C08644A-6347-4BE3-B205-7E325B21397B}
+	EndGlobalSection
+EndGlobal
